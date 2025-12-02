@@ -1,0 +1,5 @@
+{
+  "name": "试听管家",
+  "description": "一款用于管理学生试听、报名转化及薪资统计的本地化 React 应用，支持数据导入导出、离线存储及统计分析。",
+  "requestFramePermissions": []
+}
